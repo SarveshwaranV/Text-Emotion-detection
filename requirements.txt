@@ -1,0 +1,8 @@
+Flask
+flask
+tensorflow==2.18.0
+pandas==2.2.3
+numpy==2.0.2
+click
+jinja2
+itsdangerous
